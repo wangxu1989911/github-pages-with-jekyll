@@ -1,3 +1,10 @@
-# Welcome to my blog
+# Welcome to Github Pages
 
-I'm glad you are here. I plan to talk about ...
+## Project Structure
+```
+  |-- README.md
+  |-- _config.yml
+  |-- index.md
+```
+## Todo
+  - [ ] See pull requests.
